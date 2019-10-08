@@ -1,4 +1,4 @@
-package hackerrank;
+package hackerrank_java;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -74,7 +74,7 @@ public class Strings {
     }
   }
 
-  //TODO: write sorting algorithm for hackerrank
+  //TODO: write sorting algorithm for hackerrank_java
   private static void anagrams() {
     String a = sc.next();
     String b = sc.next();

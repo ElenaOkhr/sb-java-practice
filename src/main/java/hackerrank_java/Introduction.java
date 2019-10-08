@@ -1,4 +1,4 @@
-package hackerrank;
+package hackerrank_java;
 
 import java.text.NumberFormat;
 import java.text.ParseException;

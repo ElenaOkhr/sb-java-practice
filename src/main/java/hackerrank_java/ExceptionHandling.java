@@ -1,4 +1,4 @@
-package hackerrank;
+package hackerrank_java;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
